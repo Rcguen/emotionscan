@@ -81,7 +81,7 @@ describe('EmotionScanner Component', () => {
     render(<EmotionScanner />);
     
     expect(screen.getAllByText('happy').length).toBeGreaterThan(0);
-    expect(screen.getByText('85.0')).toBeInTheDocument();
+    expect(screen.getAllByText('85.0').length).toBeGreaterThan(0);
     expect(screen.getByText('TERMINATE')).toBeInTheDocument();
   });
 });
