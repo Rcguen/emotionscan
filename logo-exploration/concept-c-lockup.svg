@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 256" width="880" height="256">
+  <title>EmotionScan - Neural E Lockup</title>
+  <!-- Symbol: Concept C -->
+  <g transform="translate(16, 0)">
+    <g transform="translate(14, 8)">
+      <path d="M40 36 H184 C195.05 36 204 44.95 204 56 C204 67.05 195.05 76 184 76 H80 V92 H160 C171.05 92 180 100.95 180 112 C180 123.05 171.05 132 160 132 H80 V164 H184 C195.05 164 204 172.95 204 184 C204 195.05 195.05 204 184 204 H40 C28.95 204 20 195.05 20 184 V56 C20 44.95 28.95 36 40 36 Z" fill="#000000"/>
+      <circle cx="204" cy="112" r="16" fill="#000000"/>
+    </g>
+  </g>
+  <!-- Wordmark -->
+  <g transform="translate(300, 150)" fill="#000000">
+    <text font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="76" letter-spacing="-1">Emotion<tspan font-weight="400" fill="#666666">Scan</tspan></text>
+  </g>
+</svg>

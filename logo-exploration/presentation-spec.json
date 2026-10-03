@@ -1,0 +1,26 @@
+{
+  "brand": "EmotionScan",
+  "tagline": "Neural Biometric Engine",
+  "brief": "Multimodal biometric emotion scanner combining WebGL neural face mesh tracking and vocal prosody analysis for real-time affective computing.",
+  "adjectives": ["Neural", "Biometric", "Precise", "Futuristic", "Modern"],
+  "industry": "ai-ml",
+  "brand_color": "#6366F1",
+  "greyscale": false,
+  "final": true,
+  "round": 1,
+  "concepts": [
+    {
+      "name": "Neural Iris",
+      "symbol": "emotionscan-symbol-master.svg",
+      "lockup": "emotionscan-lockup-master.svg",
+      "avatar": "emotionscan-symbol-master.svg",
+      "idea": "Concentric biometric aperture and focal node: multimodal sensory convergence.",
+      "rationale": [
+        "Aperture lines evoke real-time optical scanning and iris tracking.",
+        "Emerald focal point represents the user's emotional core and neural response.",
+        "Perfect 1:1 geometry ensures 100% legibility from 16px favicons to billboard displays."
+      ]
+    }
+  ],
+  "recommendation": "The Neural Iris mark provides an ownable, high-tech identity that represents both the visual face-mesh tracking and the voice prosody sensor fusion."
+}

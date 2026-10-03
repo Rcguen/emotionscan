@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>EmotionScan - Neural E Spectrum Logo Mark</title>
+  <g transform="translate(14, 8)">
+    <path d="M40 36 H184 C195.05 36 204 44.95 204 56 C204 67.05 195.05 76 184 76 H80 V92 H160 C171.05 92 180 100.95 180 112 C180 123.05 171.05 132 160 132 H80 V164 H184 C195.05 164 204 172.95 204 184 C204 195.05 195.05 204 184 204 H40 C28.95 204 20 195.05 20 184 V56 C20 44.95 28.95 36 40 36 Z" fill="#000000"/>
+    <circle cx="204" cy="112" r="16" fill="#000000"/>
+  </g>
+</svg>

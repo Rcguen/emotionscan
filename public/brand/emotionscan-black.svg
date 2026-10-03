@@ -1,0 +1,22 @@
+<svg fill="#000000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>EmotionScan</title>
+  
+  <defs>
+    <linearGradient id="emScanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <radialGradient id="irisGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+  </defs>
+  <!-- Outer Biometric Eye Contour & Inner Aperture -->
+  <path d="M128 32 C72 32 24 76 16 128 C24 180 72 224 128 224 C184 224 232 180 240 128 C232 76 184 32 128 32 Z M128 60 C166 60 200 90 210 128 C200 166 166 196 128 196 C90 196 56 166 46 128 C56 90 90 60 128 60 Z M128 84 C152.3 84 172 103.7 172 128 C172 152.3 152.3 172 128 172 C103.7 172 84 152.3 84 128 C84 103.7 103.7 84 128 84 Z M128 104 C114.7 104 104 114.7 104 128 C104 141.3 114.7 152 128 152 C141.3 152 152 141.3 152 128 C152 114.7 141.3 104 128 104 Z" fill="url(#emScanGrad)" fill-rule="evenodd"/>
+  <!-- Central Neural Iris / Pupil -->
+  <circle cx="128" cy="128" r="14" fill="url(#irisGrad)"/>
+  <!-- Optical Focus Calipers -->
+  <rect x="122" y="38" width="12" height="18" rx="6" fill="url(#emScanGrad)"/>
+  <rect x="122" y="200" width="12" height="18" rx="6" fill="url(#emScanGrad)"/>
+  <rect x="22" y="122" width="18" height="12" rx="6" fill="url(#emScanGrad)"/>
+  <rect x="216" y="122" width="18" height="12" rx="6" fill="url(#emScanGrad)"/>
+</svg>
